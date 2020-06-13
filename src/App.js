@@ -8,9 +8,9 @@ class App extends Component {
     age: 3,
     showPerson: true,
     fruits: [
-        {id: '1', fruitName: 'Fruitname1', fruitColor: 'Red1'},
-        {id: '2', fruitName: 'Fruitname2', fruitColor: 'Red2'},
-        {id: '3', fruitName: 'Fruitname3', fruitColor: 'Red3'}
+        {id: '1', fruitName: 'Fruitname11', fruitColor: 'Red1'},
+        {id: '2', fruitName: 'Fruitname22', fruitColor: 'Red2'},
+        {id: '3', fruitName: 'Fruitname33', fruitColor: 'Red3'}
     ]
   });
   clickHandler = () => {
