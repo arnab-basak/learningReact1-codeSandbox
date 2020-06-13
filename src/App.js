@@ -39,7 +39,7 @@ class App extends Component {
             name={this.state.name} 
             onChange={this.changeHandler}>
         </Person> )
-    }
+    } 
     return (
       <div>
         <ol>
